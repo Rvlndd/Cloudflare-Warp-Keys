@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Welcome to the repository for free Cloudflare WARP+ keys. This repository is updated daily with 100 new keys, ensuring you always have access to the benefits of Cloudflare's WARP+.
+free Cloudflare WARP+ keys. This repository is updated daily with 100 new keys, 1 keys can be used up to 5 device so per day 500 poeple can get free of Cloudflare's WARP+.
 
 ## Latest Update
 
@@ -28,17 +28,14 @@ The keys were last updated on: **`<timestamp>`**
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
 
-## Contributing
-
-We welcome contributions! If you have keys to share or improvements to suggest, please open a pull request or an issue.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
+## Is this Unlimited?
 
-If you have any questions or suggestions, feel free to reach out.
+Yea, it have 2 Exabytes of bandwith per key, 2 ExaBytes = 2000000000 GN
 
 ---
 
