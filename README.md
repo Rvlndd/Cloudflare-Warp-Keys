@@ -5,11 +5,11 @@
 
 ## Introduction
 
-free Cloudflare WARP+ keys. This repository is updated daily with 100 new keys, 1 keys can be used up to 5 device so per day 500 poeple can get free of Cloudflare's WARP+.
+free Cloudflare WARP+ keys. This repository is updated daily with 100 new keys, 1 key can be used up to 5 devices so per day 500 people can get free of Cloudflare's WARP+.
 
 ## Latest Update
 
-The keys were last updated on: **`2024-06-29 10:41:42`**
+The keys were last updated on: **`2024-06-29 10:51:52`**
 
 ## How to Use
 
@@ -19,11 +19,13 @@ The keys were last updated on: **`2024-06-29 10:41:42`**
 
 ## Today's WARP+ Keys
 
-| 1          | 9nq087Qm-45guB9h2-V7HP5I68                                   |
-| 2          | 4Ccvk196-42Z1Mw8o-p5U036qX                                   |
-| 3          | f039Ng7C-y71Li92F-lvtZ4210                                   |
-| 4          | 18L7mr0X-h56k9g1m-4hrQ762X                                   |
-| 5          | M67cIr53-lz41J6x3-O9z82jW6                                   |
+| INum | Key |
+|-------|-----|
+| 1     | zK768b9D-9nix351l-V2EI1W84               |
+| 2     | 9w6z2V4n-J70q6N4d-3s986XSo               |
+| 3     | 19IJDF23-8FMR907b-4635uFKX               |
+| 4     | Vpb9347l-BS48M0g2-D974xIM8               |
+| 5     | 3WDY7L61-439EltS7-v9K1g75S               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
@@ -31,7 +33,7 @@ The keys were last updated on: **`2024-06-29 10:41:42`**
 
 ## Is this Unlimited?
 
-Yea, it have 2 Exabytes of bandwith per keys
+Yes, it has 2 Exabytes of bandwidth per key.
 
 ---
 
