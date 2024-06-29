@@ -18,7 +18,7 @@ The keys were last updated on: **`<timestamp>`**
 
 ## Today's WARP+ Keys
 
-| Key Number | Key                                   |
+| Number | Key                                   |
 |------------|---------------------------------------|
 | 1          | ABCDEFGHIJKLMNOPQRSTUVWXYZ123456     |
 | 2          | ABCDEFGHIJKLMNOPQRSTUVWXYZ123457     |
