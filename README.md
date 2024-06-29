@@ -29,14 +29,9 @@ The keys were last updated on: **`<timestamp>`**
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Is this Unlimited?
 
-Yea, it have 2 Exabytes of bandwith per key, 2 ExaBytes = 2000000000 GN
+Yea, it have 2 Exabytes of bandwith per key, 2 ExaBytes = 2000000000 GB
 
 ---
 
-![Banner](asset/IMG_20240629_142710_129.jpg)
