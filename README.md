@@ -31,7 +31,9 @@ The keys were last updated on: **`<timestamp>`**
 
 ## Is this Unlimited?
 
-Yea, it have 2 Exabytes of bandwith per key, 2 ExaBytes = 2000000000 GB
+Yea, it have 2 Exabytes of bandwith per keys
 
 ---
+
+> **Note:** 2 ExaBytes = 2000000000 GB
 
