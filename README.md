@@ -9,7 +9,7 @@ free Cloudflare WARP+ keys. This repository is updated daily with 100 new keys, 
 
 ## Latest Update
 
-The keys were last updated on: **`2024-06-29 10:51:52`**
+The keys were last updated on: **`2024-06-29 11:06:35`**
 
 ## How to Use
 
@@ -21,11 +21,10 @@ The keys were last updated on: **`2024-06-29 10:51:52`**
 
 | INum | Key |
 |-------|-----|
-| 1     | zK768b9D-9nix351l-V2EI1W84               |
-| 2     | 9w6z2V4n-J70q6N4d-3s986XSo               |
-| 3     | 19IJDF23-8FMR907b-4635uFKX               |
-| 4     | Vpb9347l-BS48M0g2-D974xIM8               |
-| 5     | 3WDY7L61-439EltS7-v9K1g75S               |
+| 1     | mpw2374D-7X90ANx5-28fn6Ga3               |
+| 2     | G09PZ3d5-8R1j04fO-0F94DB6A               |
+| 3     | C7p8if41-N3P571gi-x8gM205X               |
+| 4     | 1Cs540BV-4wj1VK73-cl0BY617               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
