@@ -5,11 +5,11 @@
 
 ## Introduction
 
-free Cloudflare WARP+ keys. This repository is updated daily with 100 new keys, 1 key can be used up to 5 devices so per day 500 people can get free of Cloudflare's WARP+.
+free Cloudflare WARP+ keys. This repository is updated every 6 hours with 100 new keys, 1 key can be used up to 5 devices so per day 3000 people can get free of Cloudflare's WARP+.
 
 ## Latest Update
 
-The keys were last updated on: **`2024-06-29 23:55:37`**
+The keys were last updated on: **`2024-06-30 04:44:49`**
 
 ## How to Use
 
@@ -21,105 +21,110 @@ The keys were last updated on: **`2024-06-29 23:55:37`**
 
 | INum | Key |
 |-------|-----|
-| 1     | 0T4LW72x-u982jcs0-0eH71k5n               |
-| 2     | r7Nz084h-2rLM861i-h8J5y60m               |
-| 3     | 4k32Rd6G-3N68qZ2T-C59r2lM3               |
-| 4     | 08Lk14PG-UZc186B2-I1v3pP62               |
-| 5     | O1o3FT69-9b31RDa5-l2iO9P70               |
-| 6     | M943D8vH-38gHi4Y5-C14T8p7r               |
-| 7     | 1Kj6G3D5-9z34k0rt-4m9N0zn3               |
-| 8     | z3l695Wt-6V1Hv7a0-68XTZ13B               |
-| 9     | 2M4Ai10l-WFb73n26-Cq39F5p4               |
-| 10    | 9jt7K54n-8A3Hf04n-2Z83MC5G               |
-| 11    | eB0149yx-1nxz578a-pMf26n57               |
-| 12    | I70j8U4p-2E65Vgf3-539Yl0xd               |
-| 13    | 45ut0Ks7-w6MF395h-9jU3H6z8               |
-| 14    | uv385RM7-264u8rWt-0d48W9EY               |
-| 15    | 19eV45hL-J9A62E0Q-o2y5Z84F               |
-| 16    | v56rB4I9-q21g58lS-K9frg184               |
-| 17    | 7scA68N2-568R4VEY-cG84H3V9               |
-| 18    | 0KvT756w-0Yq91oy5-9ph70ka8               |
-| 19    | nOD6j917-8iN1y59t-18pZ47vM               |
-| 20    | q3WE724n-9k08C4wR-Oj69A52h               |
-| 21    | 0nJ6A9c5-90dJ84Ds-90PN2ud4               |
-| 22    | 14p85BEh-8SwV2y69-1C5QPk86               |
-| 23    | 2uda451M-9vs1nR34-zu8AE354               |
-| 24    | Y1m56I0U-J57hw2i1-hZ42N7g3               |
-| 25    | 6iHc2u94-8U9Fz41A-d5Bl849W               |
-| 26    | Z4790OBU-J04h91Vo-nAh124W6               |
-| 27    | D7z3M9i8-f9FEy682-0M23tBg5               |
-| 28    | bR6475pw-3Xb215Lv-3Ei2Sq08               |
-| 29    | E9t53Hy8-LK6rg918-t9Z26n3k               |
-| 30    | C7EG096Q-a9Uq3Q51-4s20rS5G               |
-| 31    | a1b6z50B-1UTS5j26-XVJ97U46               |
-| 32    | 2p7eUJ53-3Pm7if09-gb90V2h8               |
-| 33    | 4305wWDA-q83vK1W5-luj863n2               |
-| 34    | nL03z28H-VYH843w9-X7Zo12V4               |
-| 35    | GHg5C134-68a5H0vl-39VUP17T               |
-| 36    | 170F6Ubu-8vbh412Y-y4G2U1c0               |
-| 37    | 26x9qh0O-hKrU7096-7609JLhR               |
-| 38    | 9ARGf143-m536a7Mc-495WAP7x               |
-| 39    | y6i50ua4-45WYj8c7-k4h079qo               |
-| 40    | k57e6G2T-8rM5wL09-3045JZMR               |
-| 41    | 19Se06dH-M0A7o68m-M27V9e4D               |
-| 42    | 9ac8Sk07-h39N5k7P-07ZAHd39               |
-| 43    | F8E2o4I7-62q7V9Ax-93Gj45Xc               |
-| 44    | KJ875Wz1-i4o7H09m-98C3kat2               |
-| 45    | 3q50a7VT-LBE3167d-QD9o0Y32               |
-| 46    | q3u48Bn5-9tx1PK05-6jHJ58f0               |
-| 47    | 560Qj2uP-68L5mcH1-Td5HI738               |
-| 48    | E05h4W6w-eo843h7b-c39HCF72               |
-| 49    | e041L7sZ-Qb415K8T-4XfS3e19               |
-| 50    | T283S1kY-830OXsh7-QqU854G2               |
-| 51    | v851L0tU-12nhEg98-4AZ8w07q               |
-| 52    | 3Z7oiC61-9x3A58Nr-fW9462Fv               |
-| 53    | 5H67m9ro-nx863L7J-698Ki7xL               |
-| 54    | 0wy25WI3-62ynS9B4-6G3ywn72               |
-| 55    | 72n4Ged3-2QSj361F-6f1zS0T7               |
-| 56    | nc41E26H-7pGb04P1-K0Fk753C               |
-| 57    | Bt3q126E-K05o8j4E-j5WR9O43               |
-| 58    | 7S2n90QW-60Y8kP3D-87sn2yV0               |
-| 59    | 8D19vc2O-CW69GA14-e3l06RP5               |
-| 60    | I3A1W2R8-3j5ivr10-69LxC14h               |
-| 61    | 645h0Uei-39m1lHt8-x6D1e0u2               |
-| 62    | 29t3T7bK-8D92Ct3m-2Yz80P7t               |
-| 63    | 2MX357YV-94cgN2J7-8etnl362               |
-| 64    | 0D5wc41b-5uL741pX-Ic4w286X               |
-| 65    | 578tD1Ov-1JS025fD-x67TUH89               |
-| 66    | nU521r4p-36O8Pnw7-Qj45n3A2               |
-| 67    | iM2S06d5-8s9C1f3E-6Ib183FA               |
-| 68    | mM59o1A3-D79J0bm6-Z9b8V5H3               |
-| 69    | I56N13YW-K7kVb530-6o5kj30V               |
-| 70    | 2N0P5Ez9-IJ604qz2-6xVO910Y               |
-| 71    | yF073Wh1-9dn48v0j-5y96V8NY               |
-| 72    | 5i1hF28G-xuf204H1-T236VC9W               |
-| 73    | ep85Bx97-X34Br29A-31EkT62s               |
-| 74    | 7aFJ946V-iX57K6B2-8XCy23D5               |
-| 75    | 6n2gO0Q7-Z07Up23j-oyt94n35               |
-| 76    | aw3Co782-40u56DqK-0J49sW6F               |
-| 77    | F684sw7S-5lrT87K1-CA143eK5               |
-| 78    | E81jHm79-z3l980Rg-ve34NH12               |
-| 79    | x205w9st-1HkWp082-P1t8J5v4               |
-| 80    | 2T65XiH4-3jY0aF75-JDb2564l               |
-| 81    | 95Yi87OE-s614rn8u-x0I28Vf6               |
-| 82    | 0b9Q21aL-ZPn0981S-aWF7Y613               |
-| 83    | 28q16Cns-CTw017F9-6Uc5h3m7               |
-| 84    | 7i82B6Zs-x8kR6h20-c0JR8d57               |
-| 85    | 483x9KVC-kV6j892M-A54D0G2E               |
-| 86    | 81iKmB93-U8fb2J10-r5891oqK               |
-| 87    | 405Gfg3I-4P8x1uv5-N5Rp86v2               |
-| 88    | 8yz92Yf5-l9801AeP-e2I5s16N               |
-| 89    | pYg1F082-5c1nV0R3-2Zs40q6W               |
-| 90    | 2FLu9a65-N63T91Ob-4hmDr075               |
-| 91    | 0oM145lL-7CUL95m8-3I6BS19o               |
+| 1     | q3bWG465-251nkNA8-s91mj4p0               |
+| 2     | 97ZiY40t-iS1mW783-4dx7U0g6               |
+| 3     | S236lG8z-64Fu1s9P-Nuo820p7               |
+| 4     | 6EQ10cM9-Y7523DBo-kr3E5A19               |
+| 5     | i0RHk781-0tV816Lj-5q3k1D2R               |
+| 6     | 6ta170bI-JS6T427I-Q5VS97W8               |
+| 7     | XS468eN2-qC734Y5x-Y2l1M37O               |
+| 8     | E128Ttf5-q612pY8H-Yr2054UE               |
+| 9     | 8fa7q13J-y6W783co-x52Pn9Z6               |
+| 10    | 3BE06F1k-fQ156A7z-A283P9dK               |
+| 11    | 418sr9PC-Ue1Q827D-y51lO4m7               |
+| 12    | 5z2c39Dh-u3EO92G1-8ilD52p3               |
+| 13    | 568fUI3d-A41t23gV-u74V3RT1               |
+| 14    | o9gZU254-7039LwXz-34Gti9T2               |
+| 15    | ia3rT476-3O896hpn-74Kt69OE               |
+| 16    | k2Y7Wl41-6vT89f1R-9h85o3mv               |
+| 17    | 69XEh2w7-538QX7Jz-2E57n3kV               |
+| 18    | 9M5i10Nu-Q2X38hp5-ye24s15U               |
+| 19    | a04RQ2c7-UW58uj01-q05n3f6x               |
+| 20    | r0d8Lp45-7Ja59e0G-n026kDC5               |
+| 21    | 5J4S6yQ3-e8152cFX-T8r31IQ9               |
+| 22    | a29Xep57-71OL4G8e-D0283RKs               |
+| 23    | V14uJ25k-6p3sM0S7-C689h0oj               |
+| 24    | 74wi93Sv-q807gy2a-e37v42VB               |
+| 25    | 1zh84JU5-m8dl29M1-X871UmO6               |
+| 26    | Ma23X9F4-0i2VC51q-A9kK1w67               |
+| 27    | 5640asIB-75A0Js3K-rT6U7O59               |
+| 28    | 1LC93w8v-5h9mv74d-a6E974zY               |
+| 29    | FG593y7W-W4bM597n-2s01zv6M               |
+| 30    | 60H7vB4I-Wv21Q50L-02H1Es8T               |
+| 31    | DyLo6980-7U5t9S0q-43n2eQz6               |
+| 32    | 039hjKx6-D09fW42i-0J4i3IE9               |
+| 33    | 76o8E5JN-23M1W0ip-l079dA1L               |
+| 34    | s4fQE532-7f45lD6R-05Zth83x               |
+| 35    | 97VCN4t6-nM1853HD-3PN061qg               |
+| 36    | L30fP51J-LS381fB2-2BbK6G50               |
+| 37    | 5o80ml1M-8Vh5M1t4-Z41I9D2Y               |
+| 38    | 04VN9do1-0574IRxi-0zrFH574               |
+| 39    | k6A0S3X7-018Kq6de-3O6TB84b               |
+| 40    | 90e25WOt-R12WG3q6-N81eQ94p               |
+| 41    | R3hPW759-1l3xo85G-Qu4jN826               |
+| 42    | 8jzbH091-S389g4Ak-M2094sQH               |
+| 43    | 7L583FeA-Gw9X5h01-15I0VGS2               |
+| 44    | h0W685FS-yM2s14Y9-kp2803Tu               |
+| 45    | eC9420HU-57Eln6T8-Y2W81EG4               |
+| 46    | 58ryPb41-3a8b0u9Z-6uHxN213               |
+| 47    | 5Y8xyt61-G946q2Zj-8z4T5Mn6               |
+| 48    | q74J8hC1-730xorS2-4W2n7J1t               |
+| 49    | E43oD86G-1Ql70NL8-iVJy8295               |
+| 50    | L6l270wD-a8x2d1v6-ZQmH1307               |
+| 51    | S5vO60X4-d2IV8w79-ZtS582N0               |
+| 52    | 634Tys5I-28J3GUi7-l18d5U4L               |
+| 53    | Y0Bt34v8-6h9a4N8i-0puO1d79               |
+| 54    | c4G7e39s-9k3Cz60s-4d016kxy               |
+| 55    | 0I5VKP61-4527pySv-r4u76M9V               |
+| 56    | 07isa42S-Ut36h81i-T85Jr62w               |
+| 57    | N2KA863C-bY26Xx70-3k0Qr28Y               |
+| 58    | 6G2Z7TV9-0xL94v7e-csm178f3               |
+| 59    | r3k2N9L5-r4cTi832-21tf05yH               |
+| 60    | 68A41IoO-2P5SN09f-VC90W65T               |
+| 61    | 03IQ45nr-6bI853Xh-NsW9i637               |
+| 62    | 0UM561XT-2w19z6bW-W270Z5AU               |
+| 63    | EkIh5274-TOi286F4-654MJW2N               |
+| 64    | 0N3DX5b4-74MLr10q-y73G54PR               |
+| 65    | 9ON5H36x-Xh372Z9P-S4lJ2Y71               |
+| 66    | 86xR2TB5-I796dnk2-102sYP8U               |
+| 67    | BO8092Ug-706Q4qhX-2w3j50aY               |
+| 68    | 839uEKj6-x3092tLy-90b18fWd               |
+| 69    | 6ai51N3X-yq8761pe-5BJ2Au49               |
+| 70    | 09mr3w7P-RA1605VU-4F1qd76y               |
+| 71    | 5o0Ju6O8-5J3V48OF-1R0ty36c               |
+| 72    | E4a71IN3-pv60c7t5-uyP290z7               |
+| 73    | 7Z3Yw5D6-7h8spW93-tY9P16k5               |
+| 74    | Da7qu312-Lc9K430r-iVX3J019               |
+| 75    | ht8S465Z-5I31hb7i-S8B4u2r6               |
+| 76    | X12GE8Z9-0154VOIA-FyM1r704               |
+| 77    | aC024F9M-V4970hTm-1D2G9Z7C               |
+| 78    | 7J540jdB-Ya7294hP-75T0M3Zy               |
+| 79    | 31eF2mI0-qy7T3k41-GTsl3851               |
+| 80    | P86Fr4S3-uD3b264K-Wpv6f305               |
+| 81    | 6Y9K2wA0-21zx98WV-Y8094CIu               |
+| 82    | 3W6w7z2g-g1fu293e-ZTy891C7               |
+| 83    | 7y054UFE-5M4eN86O-F84r59Lb               |
+| 84    | Bi4Zk381-89D0pJ1t-4T17N9xR               |
+| 85    | rs154A3D-v3sld051-28gMJ13X               |
+| 86    | 4I687KPs-Jr24y53l-35B09Ydf               |
+| 87    | 12Pet7r5-82kPM5x9-DL59j82F               |
+| 88    | 6xu934ez-7s16E8Qn-1w8XL43J               |
+| 89    | XM86ph19-gP4I25B6-wvMQ6130               |
+| 90    | 9x23fz0B-249iWG5R-XO62x17b               |
+| 91    | z0ET1v79-WZ5E810F-j503K4zi               |
+| 92    | 9q43Ip7g-b9R2B7l5-Oxq246B3               |
+| 93    | 981fsxo2-6b7IE8l2-9lu5T87c               |
+| 94    | 3HM46p2i-X604e2Wa-cz03i9h5               |
+| 95    | 584j0Rxb-6v79r2Nz-431K5cEj               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
 
-
 ## Is this Unlimited?
 
 Yes, it has 2 Exabytes of bandwidth per key.
-> **2 ExaBytes** = 2000000000 GB
+
+## What can I use it for?
+U can do anything what u want but plz gimme a star <3
 
 ---
