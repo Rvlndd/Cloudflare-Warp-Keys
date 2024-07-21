@@ -9,7 +9,7 @@ free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new
 
 ## Latest Update
 
-The keys were last updated on: **`2024-07-21 05:54:09`**
+The keys were last updated on: **`2024-07-21 11:54:32`**
 
 ## How to Use
 
@@ -21,16 +21,16 @@ The keys were last updated on: **`2024-07-21 05:54:09`**
 
 | INum | Key |
 |-------|-----|
-| 1     | L187frn9-03R8NS7E-92Ftu36a               |
-| 2     | 92U0H3ei-o0F9QV12-5XOL20e9               |
-| 3     | 19xE3D5M-6U40uL9C-302gvU1b               |
-| 4     | 381m9DYB-9KeN38d6-5Ow1An79               |
-| 5     | s3C6HI70-hiMH9324-T79Y60Vd               |
-| 6     | P3M542uk-795U8djY-ALH378g9               |
-| 7     | 0Lm345uJ-91tGkC64-65a41elZ               |
-| 8     | 5gA90x2r-lw39i48d-1Q7Io9y8               |
-| 9     | 3uj195XN-39NfK0g1-56B0XDE4               |
-| 10    | L4y976RP-zgs4765i-WuS9G810               |
+| 1     | 1vb8Z2n3-04z2sQ8i-0u563IrM               |
+| 2     | 5tshJ286-30CY69XG-Vqu135t8               |
+| 3     | zq521BG3-Qr614NC3-1B9K73Zi               |
+| 4     | 2w3G48Bi-13n8RMU6-9C03O2lF               |
+| 5     | 3Q9n8IZ7-Oq5yB631-73n6JfA2               |
+| 6     | 1T720Rxc-taOb4531-p510t2WO               |
+| 7     | Xh3z5T64-7O3Mkw04-w3c564Ix               |
+| 8     | a2KI1r04-dU704V1B-H4g5zE03               |
+| 9     | 01l45sri-kKNW0895-8YPh970D               |
+| 10    | 72ejR13W-tW725O6b-mx57qV43               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
