@@ -9,7 +9,7 @@ free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new
 
 ## Latest Update
 
-The keys were last updated on: **`2024-07-24 11:58:52`**
+The keys were last updated on: **`2024-07-24 17:59:15`**
 
 ## How to Use
 
@@ -21,16 +21,16 @@ The keys were last updated on: **`2024-07-24 11:58:52`**
 
 | INum | Key |
 |-------|-----|
-| 1     | 1Q80AT4d-94R06TUP-h1390KGV               |
-| 2     | 1E2r6Xd4-w5MEO927-71T0Ym2f               |
-| 3     | F15wC02a-p731XNq2-o0gm582X               |
-| 4     | 41i32hXS-u07P94pH-9R8DjW04               |
-| 5     | mf16XU73-kbt62L15-2oH19xV5               |
-| 6     | 5oi72b9I-9vXx073S-52nze71G               |
-| 7     | M0g9DH34-R0aj385s-d59i0uO3               |
-| 8     | 247Zqw8m-NH509x1b-MxWv5627               |
-| 9     | 1cK69G8i-c594oQA6-4w52ZR3n               |
-| 10    | r5h413lC-Xwl4850o-e4BJ19l6               |
+| 1     | 49Y57fgj-o398O7GS-3yPF52g7               |
+| 2     | ed5638uc-l87O5Yj4-z53c7u0S               |
+| 3     | P5k18CF2-3J4Fgs69-J2Cm068K               |
+| 4     | t2NC3p78-8Hq769dm-4Dd8IU79               |
+| 5     | nP4H59R3-Ue1C9h47-6Pm4z81U               |
+| 6     | i289K3Oq-Rs094We6-Q937EV0A               |
+| 7     | jEP431O9-s7x5g38D-y3875EPf               |
+| 8     | ED071Gw4-B7l9GI60-oVP0I986               |
+| 9     | 7y20M5ns-Udg2B610-9OP074Eu               |
+| 10    | iST80F56-i6GFP130-Qg470Nh2               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
