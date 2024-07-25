@@ -9,7 +9,7 @@ free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new
 
 ## Latest Update
 
-The keys were last updated on: **`2024-07-25 06:00:12`**
+The keys were last updated on: **`2024-07-25 12:00:34`**
 
 ## How to Use
 
@@ -21,15 +21,16 @@ The keys were last updated on: **`2024-07-25 06:00:12`**
 
 | INum | Key |
 |-------|-----|
-| 1     | 9A83Qy4f-3M65G0LW-6718pAYz               |
-| 2     | 6oQ0R47N-6z9I3T4f-fA7n6m21               |
-| 3     | Sq1Kp925-90I5wPg3-5EN9K47t               |
-| 4     | f9VcI785-2Vo931RM-3k4Tu56N               |
-| 5     | uPQY0217-r89F1E6g-7921ikLn               |
-| 6     | 28QmBP56-5324NvHr-v58cS46O               |
-| 7     | 254s9EMI-fEN43Z26-5oE14WT2               |
-| 8     | 093WPbM4-6Q8N2AJ5-2ft5l19J               |
-| 9     | lc90VA35-Kg0271uN-1o0X3t2a               |
+| 1     | S3a2A9r0-n3N09Q1Z-b3kAE124               |
+| 2     | Vo2s97n3-A20b7N6n-o05e43hn               |
+| 3     | 2W0RSm59-c839a5nS-3VP815DO               |
+| 4     | 01L75FXx-F3p60a1I-583Pq9WA               |
+| 5     | A3q4UL15-he12LW64-L72i15zk               |
+| 6     | F7180VuK-70a1wpB6-09Ez3Gq1               |
+| 7     | L27Gc0m8-0Yr82ku7-7ZK158YS               |
+| 8     | 6flz34T1-137i9dJC-9o63JSF0               |
+| 9     | 78Lue6d4-b8e042vq-J40eh1R2               |
+| 10    | h0v41o9b-G2mv78i3-56dV3LJ4               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
