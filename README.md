@@ -9,7 +9,7 @@ free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new
 
 ## Latest Update
 
-The keys were last updated on: **`2024-07-26 18:02:25`**
+The keys were last updated on: **`2024-07-27 00:02:43`**
 
 ## How to Use
 
@@ -21,15 +21,16 @@ The keys were last updated on: **`2024-07-26 18:02:25`**
 
 | INum | Key |
 |-------|-----|
-| 1     | J7u20Wv3-89qGO35H-8bc06zv2               |
-| 2     | Yj7z154J-agjc2193-j69E7Z3Y               |
-| 3     | 83T6aP4Q-0Y5J4r7P-0v24iej5               |
-| 4     | 76fDX29V-7Yq62Ap8-H705tm2K               |
-| 5     | 6Yt85E4h-vi9T8o23-mX31eI28               |
-| 6     | yh1x79f3-60PhE3j4-h6Oq3L74               |
-| 7     | 47gl0j1x-54qy6VE8-XNW651y9               |
-| 8     | 58ho16Yl-57mHJ28Q-0E56K2ax               |
-| 9     | 8B9b50dk-q3Yj0a62-p5AF768R               |
+| 1     | 8B4t19OJ-1j24xeN8-lWT9a217               |
+| 2     | 8sZy160N-LS70RU31-9234dIVf               |
+| 3     | 03i6j8wM-8e46aEp3-zHa47T81               |
+| 4     | B0V74WC8-29FW6gb0-YH79B46F               |
+| 5     | 1Z0H5CP3-Vmf6E217-z1j4ED23               |
+| 6     | 30Apo2D1-238p6obW-U6Fa503A               |
+| 7     | rt1637dH-I75t8o6g-7D8FKo09               |
+| 8     | mB2k816O-FR65Tq17-4p968bxL               |
+| 9     | 9oIO0S12-6z29O8RV-SZ064z1h               |
+| 10    | 087A3UPr-37B5v1pL-Gp05RT32               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
