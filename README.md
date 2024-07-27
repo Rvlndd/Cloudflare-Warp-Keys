@@ -9,7 +9,7 @@ free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new
 
 ## Latest Update
 
-The keys were last updated on: **`2024-07-27 18:03:56`**
+The keys were last updated on: **`2024-07-28 00:04:18`**
 
 ## How to Use
 
@@ -21,16 +21,16 @@ The keys were last updated on: **`2024-07-27 18:03:56`**
 
 | INum | Key |
 |-------|-----|
-| 1     | NR81S45L-B1742ALX-9C0U8Zm6               |
-| 2     | Dw62Je10-6VA57Jl9-95R0hVv3               |
-| 3     | JeO056L1-7XFUa184-4MXf3A79               |
-| 4     | NO6HU985-E59KW3e2-3W952pae               |
-| 5     | s1a86ty0-Olg70Q85-3895kUrv               |
-| 6     | 7Y0J61Tw-V7q95Q3r-85Jj0Nz3               |
-| 7     | Y368tVh0-FTB8g297-90hy1IG6               |
-| 8     | T04OIp96-701KBp9S-p6hf53L4               |
-| 9     | p9W2n0Q4-6VMl043W-16c8ZPK9               |
-| 10    | 0rZG27U8-52P6ROE4-0187EWpC               |
+| 1     | 2c6oy9t4-HNt4G803-7W6IhY08               |
+| 2     | n70hZ9s5-20V7B8Ti-l1t73o8X               |
+| 3     | 7l3xbV29-tPD8340d-h2Pg760B               |
+| 4     | 0421mkGx-6X0V4E5v-48hL2X6d               |
+| 5     | fBm9643h-7o2P4W9y-314x9EoL               |
+| 6     | T5e72F9S-8XL1Y3B0-3458iIqA               |
+| 7     | 76LvK95T-302og7QP-zs28P31d               |
+| 8     | pWt620U4-r3uQ0V56-105w9hEW               |
+| 9     | 90i43kDc-768xkEW2-67ew8fm9               |
+| 10    | TBe854U7-vs613Tz8-z241GM6C               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
