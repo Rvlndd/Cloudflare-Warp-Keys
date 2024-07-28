@@ -9,7 +9,7 @@ free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new
 
 ## Latest Update
 
-The keys were last updated on: **`2024-07-28 06:04:44`**
+The keys were last updated on: **`2024-07-28 12:05:13`**
 
 ## How to Use
 
@@ -21,16 +21,15 @@ The keys were last updated on: **`2024-07-28 06:04:44`**
 
 | INum | Key |
 |-------|-----|
-| 1     | hz529xi3-F9Zj705N-b0Cl9F42               |
-| 2     | 3k16gU4i-1l63yYi4-82XyKc01               |
-| 3     | 0Wf5l37K-52LA91Jq-J860DZ3K               |
-| 4     | jWy41Z95-C1Y2L9a3-Gbn546F2               |
-| 5     | Jj9628zB-8yXT95i7-91k7NqU5               |
-| 6     | 6lG8EU50-gi164x2E-4k8uG9J2               |
-| 7     | 37K6an5H-9ep2d4k6-R71TYx48               |
-| 8     | 2aT60q3i-uvY8x456-K5I01AB4               |
-| 9     | 302VBH4f-r9H8FV64-6Eyd231c               |
-| 10    | 4F1NA2d6-2ogsc139-1B7Gr54j               |
+| 1     | 6Ad05J2P-3OLk49j2-2Y8x57GE               |
+| 2     | e5m2Aw61-431K5aJk-8134TrSy               |
+| 3     | pcA6k724-xw3864RK-rxo38B10               |
+| 4     | o7t165On-a5JX140w-pPe0459K               |
+| 5     | 8buTA529-1P6QlE80-5mDCZ420               |
+| 6     | 60H91hva-nZ5k842D-P9h3J72W               |
+| 7     | 24Vlb5X3-853wTA1M-M72jhs49               |
+| 8     | 20I5Bt8c-uZ3s21e5-8z2Ci03c               |
+| 9     | 50kY4Rf2-VjH530I1-P86Fhs39               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
