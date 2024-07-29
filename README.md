@@ -9,7 +9,7 @@ free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new
 
 ## Latest Update
 
-The keys were last updated on: **`2024-07-29 00:05:52`**
+The keys were last updated on: **`2024-07-29 06:06:13`**
 
 ## How to Use
 
@@ -21,16 +21,16 @@ The keys were last updated on: **`2024-07-29 00:05:52`**
 
 | INum | Key |
 |-------|-----|
-| 1     | 8vZ431kK-743qxp5f-x7uS95b0               |
-| 2     | JO08L36P-1V0b9AJ8-aQ6G9r34               |
-| 3     | m8hM967i-196YeEd3-1D958QRv               |
-| 4     | wE64z8h5-9ByS64g8-308i1UzQ               |
-| 5     | L71yK3n8-hLZ21U08-xe3Qz295               |
-| 6     | w81Uj27R-1B2H4Gp0-H65A03qn               |
-| 7     | 98ERf60c-nB076at9-61k5lVw7               |
-| 8     | m6i8l5P0-12AEVO75-6dx4Sr39               |
-| 9     | 1M9Y8eC5-72Mk6gJ3-4fcH6M58               |
-| 10    | 70Llq1m5-yS4Fq208-C5ZL0M43               |
+| 1     | 1e2Q0E7I-0LZ32b6t-N132H4aO               |
+| 2     | 8g1zrq24-ZSK13j05-1Y9jv4J8               |
+| 3     | 4Ztr59C0-s24AI8l7-4DOF905E               |
+| 4     | 6oC0y81H-Go346lp9-f2T4Ag15               |
+| 5     | c9QS513d-f4b07D1A-9IdN571G               |
+| 6     | X95b7Ak0-6YJs5x03-W53c12jk               |
+| 7     | 0B8b1rm3-h728Ec4f-6k0qPM21               |
+| 8     | 496fb3aK-V64WQ3J1-G7sr8O20               |
+| 9     | T2a6f35L-YQ69NJ73-L751F6iE               |
+| 10    | cO21EK65-2a0V73Yl-17Shci86               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
