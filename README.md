@@ -9,7 +9,7 @@ free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new
 
 ## Latest Update
 
-The keys were last updated on: **`2024-07-30 18:08:34`**
+The keys were last updated on: **`2024-07-31 00:08:59`**
 
 ## How to Use
 
@@ -21,15 +21,16 @@ The keys were last updated on: **`2024-07-30 18:08:34`**
 
 | INum | Key |
 |-------|-----|
-| 1     | 361Pz8VE-pXe754J3-Db46G8q3               |
-| 2     | G5E3og14-3mgS519O-MG0we419               |
-| 3     | 42r83ZLC-08W1YL5B-2bNX3V84               |
-| 4     | Za9CQ287-O2l6q9s0-0V75c6Na               |
-| 5     | 7m56oTc9-8s407kHZ-0926dFxH               |
-| 6     | L4137jkF-94u0Rx6J-mQt341H0               |
-| 7     | 83MSUy95-6koI793Y-08Xt6d3g               |
-| 8     | Y29Up57i-2Z1idv86-jvF5387o               |
-| 9     | J5E0k4p2-6340VlhA-qA7Oz280               |
+| 1     | 46UAL0w1-t6S154uO-37yAW5c6               |
+| 2     | 9VjH54l7-2rk1Yp84-6nhc715k               |
+| 3     | qkMT3926-S6W2b80j-9v6xL8r2               |
+| 4     | 42wm7s5u-5QVL2C79-0p74P2nW               |
+| 5     | 38u9l5WA-1b82j6Ww-D19O48VC               |
+| 6     | u21W7EX5-At51O2J4-2H765Gln               |
+| 7     | PEU7685I-3s5dO10C-pX1u05P7               |
+| 8     | 06G48IjF-rJ21H4O3-9x6SfJ43               |
+| 9     | J8i49VP2-1H2KzB83-y19Uw46C               |
+| 10    | 04jL28Av-b3Gsc946-S681aH0s               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
