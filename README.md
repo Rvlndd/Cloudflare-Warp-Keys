@@ -9,7 +9,7 @@ free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new
 
 ## Latest Update
 
-The keys were last updated on: **`2024-08-01 00:10:45`**
+The keys were last updated on: **`2024-08-01 06:11:03`**
 
 ## How to Use
 
@@ -21,16 +21,16 @@ The keys were last updated on: **`2024-08-01 00:10:45`**
 
 | INum | Key |
 |-------|-----|
-| 1     | G1M034Fo-Ka910A7c-SV2OD310               |
-| 2     | ys4n6r18-ZsqR3670-32i4V8dz               |
-| 3     | Z496bC8z-7j3D50bA-B9ZW083a               |
-| 4     | 0v9SB6a1-4Y2ea0N6-w947Oe3m               |
-| 5     | 15ed7ub9-F23Tt79Z-542gCq1t               |
-| 6     | Mz549Gm3-70Ov3Iy9-7vN4mL29               |
-| 7     | Ta1y9O06-MP3G29J8-809UTE5N               |
-| 8     | 57c4A6dC-o5389HxF-p61gy7b0               |
-| 9     | zZF850X7-X4V3v0p2-e39F6f8t               |
-| 10    | KOZ8J795-Ha3N29A7-sZ87p64R               |
+| 1     | 7cxn0f89-12xw9Se8-jf2N1G74               |
+| 2     | 26r8cM3u-7l85J2qQ-85d6l3bQ               |
+| 3     | 56QVsA12-29OG41Qi-I3P1T0r6               |
+| 4     | V60i58Fr-KR2B1z30-rH65i13N               |
+| 5     | 3n5K4g6b-mB29L36R-p5us392i               |
+| 6     | l1M08D2k-92EA1ac6-61mhz5O0               |
+| 7     | MR5rK420-2U39kym1-oc8S6x45               |
+| 8     | KB7n5j21-271R5CSA-D6e9s4m8               |
+| 9     | 1PXJB693-N7bn8B49-s0Y4z2P8               |
+| 10    | U7n1ei35-4NJ9f5y8-4s9eM2l3               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
