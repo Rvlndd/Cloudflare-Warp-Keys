@@ -9,7 +9,7 @@ free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new
 
 ## Latest Update
 
-The keys were last updated on: **`2024-08-03 00:13:31`**
+The keys were last updated on: **`2024-08-03 06:13:51`**
 
 ## How to Use
 
@@ -21,16 +21,14 @@ The keys were last updated on: **`2024-08-03 00:13:31`**
 
 | INum | Key |
 |-------|-----|
-| 1     | 14av3D2r-9Pj412aU-0461OjDf               |
-| 2     | 7SY324AE-8S56x7LO-70H8NG4A               |
-| 3     | 27X1Iv9p-N2si961m-2D5T1BN4               |
-| 4     | 75op0d1i-aq87K9o4-3Zg9v74T               |
-| 5     | n8yk6R43-W8jU1b26-2530ebTf               |
-| 6     | 6CK4v35P-4u8p7Zw0-rL71A02O               |
-| 7     | 06kw14qT-5GSBF804-48MtG5R7               |
-| 8     | vi8cY165-7Xoq194Q-J09kKg26               |
-| 9     | I62Z3bC5-1t98K2Ra-6W5hb9o1               |
-| 10    | 0m7HVZ26-0u284wAO-9U2q5DX7               |
+| 1     | O1I9Mf06-x89Td02n-68zaR4w9               |
+| 2     | 8C4Gu17b-78In1so9-4b963NFG               |
+| 3     | T7mL0o16-N8LK0q47-S4Ni578D               |
+| 4     | eK4573iO-IB563h2V-MTo973b4               |
+| 5     | YT14b56f-7Zr41XQ0-V1IAW025               |
+| 6     | 1bP763WT-32Mhs50S-0uR5y9v1               |
+| 7     | blI3468J-27bV0pT9-81t9iJ4N               |
+| 8     | d1M362tZ-Pp927SX6-w38E5oQ0               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
