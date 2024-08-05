@@ -9,7 +9,7 @@ free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new
 
 ## Latest Update
 
-The keys were last updated on: **`2024-08-05 06:18:14`**
+The keys were last updated on: **`2024-08-05 12:19:05`**
 
 ## How to Use
 
@@ -21,15 +21,15 @@ The keys were last updated on: **`2024-08-05 06:18:14`**
 
 | INum | Key |
 |-------|-----|
-| 1     | r456wMb0-2e10GxJ9-147Sm2zb               |
-| 2     | 0Z9kI64L-I07RmV13-580LcBO6               |
-| 3     | O1Z65d0v-1BY5w4S2-37T6jWa2               |
-| 4     | J28X7s9E-Jy5U76k8-lC1MX253               |
-| 5     | H7M4qf81-2u3F5O6o-290Jbg3z               |
-| 6     | 0o19B7Mh-7S84hYX6-U2rQf317               |
-| 7     | 5F30Gty1-Q0m329IB-47y0b3Jc               |
-| 8     | 1SyP9V53-8Z5aM32p-5W087Qtq               |
-| 9     | 9Ot61d5f-1A9s5Zl7-36HM0ud5               |
+| 1     | LZ56NU93-45oOp2S6-j9140TmG               |
+| 2     | 5L8Jb7l6-x7956cHy-32f4Ou0b               |
+| 3     | 890qnC5z-5tX8D6Y7-x20P6oI8               |
+| 4     | 3h9u4N6x-H5W10OS2-v92fx5I0               |
+| 5     | E72w34rs-9PLax408-231ag7Zw               |
+| 6     | 09q3gI1i-Ux9X0B34-LF5C83m7               |
+| 7     | H71Mga38-K2k14fR8-D4SNM987               |
+| 8     | 3LO7q65Q-3yNgp968-5091iVYO               |
+| 9     | 5l64iw9M-94J0n7kE-48wyo32J               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
