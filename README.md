@@ -9,7 +9,7 @@ free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new
 
 ## Latest Update
 
-The keys were last updated on: **`2024-08-05 18:19:56`**
+The keys were last updated on: **`2024-08-06 00:20:31`**
 
 ## How to Use
 
@@ -21,16 +21,16 @@ The keys were last updated on: **`2024-08-05 18:19:56`**
 
 | INum | Key |
 |-------|-----|
-| 1     | yu9204la-34C7Wq2V-2Y10qpi3               |
-| 2     | 5h86Gf0A-d25G9T7y-s8P362nK               |
-| 3     | Y281JDd7-PD2417BV-s7V64Nx0               |
-| 4     | q6UIZ058-a81EVP34-173IEuR2               |
-| 5     | 0YI95uV2-4x9M6h8F-fZ91H76G               |
-| 6     | q5xjo243-Z3MA751G-G30k2z7U               |
-| 7     | Ko7m509t-236th9PI-AZ58ky63               |
-| 8     | H4867Ste-72f9V6bd-rql4j598               |
-| 9     | 2k10xql9-j7mM19f3-0J93G5yu               |
-| 10    | I7236XmE-5BQg7n62-qAp67C84               |
+| 1     | 2C59G1ok-5xs78gT4-59zce6v7               |
+| 2     | 8X7cRx02-2F7fy4R0-1RO39YI8               |
+| 3     | 9I8fT5b1-A0z5x6s8-529d1BYh               |
+| 4     | 74z5uVm0-N23r91sd-8UB6a5L0               |
+| 5     | m6K24aV3-u2vfx795-dnp178x2               |
+| 6     | oj975rv6-WZO824f1-521Knj8b               |
+| 7     | 1TDy8w09-o569y2Ga-j425Z9fE               |
+| 8     | 9B65Fd0k-BC0rD739-94r8s0bx               |
+| 9     | 14HRd29p-FK17r6p8-31HOp4q0               |
+| 10    | 4qv26BX1-14U7X5aW-HWP5p204               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
