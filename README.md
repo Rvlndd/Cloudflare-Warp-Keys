@@ -9,7 +9,7 @@ free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new
 
 ## Latest Update
 
-The keys were last updated on: **`2024-08-11 08:57:43`**
+The keys were last updated on: **`2024-08-11 09:16:55`**
 
 ## How to Use
 
@@ -21,16 +21,14 @@ The keys were last updated on: **`2024-08-11 08:57:43`**
 
 | INum | Key |
 |-------|-----|
-| 1     | FE98q42v-C2L76z5s-0c8F65Zl               |
-| 2     | y867B5Mf-ai235c9o-813hR2qC               |
-| 3     | 721WKn6H-Z5C3v91j-85m7Ms4D               |
-| 4     | Ds7m024T-M8J5LF67-o18l2k0O               |
-| 5     | z623hWt7-0u18DOv2-OECK3470               |
-| 6     | 1it84Ou5-4fj71K8H-Rx23u1O7               |
-| 7     | 9JP4T0O1-hC347BN0-34jxu28f               |
-| 8     | b6p52Og0-qE76sM58-OE5682zu               |
-| 9     | 1cB9tK70-74t5QNb0-Hx9T7a65               |
-| 10    | D7atM513-aR6j718O-6FMN5d31               |
+| 1     | 431JEQP7-0I15jqE8-19AY3K8c               |
+| 2     | m1x89fq6-y0j3C7o4-9b5g2f0m               |
+| 3     | 910Q5tci-530XmnW4-Mb3c589r               |
+| 4     | a6r18Bi4-7vV6EQ35-5MaD621Q               |
+| 5     | W05x82mD-du982Oi6-A6mv789l               |
+| 6     | 0jB4fr83-V9P5Zz78-NQ5S3c76               |
+| 7     | C95Wl21e-g8L5Z93Q-2Y3R05Iw               |
+| 8     | D07Zz42I-9h540Epg-C97oD0h1               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
