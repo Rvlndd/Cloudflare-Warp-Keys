@@ -5,11 +5,11 @@
 
 ## Introduction
 
-free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new keys get free of Cloudflare's WARP+.
+free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new keys, 1 key can be used up to 5 devices so per day 3000 people can get free of Cloudflare's WARP+.
 
 ## Latest Update
 
-The keys were last updated on: **`2024-08-07 18:25:36`**
+The keys were last updated on: **`2024-08-11 08:54:43`**
 
 ## How to Use
 
@@ -21,11 +21,16 @@ The keys were last updated on: **`2024-08-07 18:25:36`**
 
 | INum | Key |
 |-------|-----|
-| 1     | 83A4pN7X-9LB7J6r5-913Tn8aJ               |
-| 2     | K2a0et37-N3b64P8K-71o5iDM0               |
-| 3     | 84U7AS5j-o68k05fI-sYh6F408               |
-| 4     | b1f7TU85-z9R4kb50-Nx19D8Q3               |
-| 5     | mHg7W958-0dbp5c31-g6y532cM               |
+| 1     | 4Igi235y-0QPU8c74-0C635xyO               |
+| 2     | cp3J07W5-RB2Jt051-91OKJH45               |
+| 3     | m4LAc625-y7Tz680u-H74Fl9U3               |
+| 4     | 63KDpm78-uVDK2086-5rj74J1M               |
+| 5     | iZ4J721B-0485EzXI-C9Xi350s               |
+| 6     | 0Zo1LM98-49IJH12h-21K4d3Fx               |
+| 7     | Uz9Z853K-I8Y063El-95g60aQH               |
+| 8     | 74I2zTR3-hK6WP921-7j40LK9q               |
+| 9     | 8Cn0A19v-Z8B9l1C2-n8W732cj               |
+| 10    | 9yDB7x30-42iU98gt-qL60Wp32               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
