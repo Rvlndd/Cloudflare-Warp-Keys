@@ -9,7 +9,7 @@ free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new
 
 ## Latest Update
 
-The keys were last updated on: **`2024-08-11 08:56:59`**
+The keys were last updated on: **`2024-08-11 08:57:43`**
 
 ## How to Use
 
@@ -21,15 +21,16 @@ The keys were last updated on: **`2024-08-11 08:56:59`**
 
 | INum | Key |
 |-------|-----|
-| 1     | q4lk18z6-7a94R8lP-Hs3y156L               |
-| 2     | j6J4u0f2-327rWoF4-0f1o8D3k               |
-| 3     | 58CsY3H0-u0Ok42v6-W427TN0e               |
-| 4     | 2nV46Dm1-No564x9T-L7g853lx               |
-| 5     | cb1405Rx-4Sv3T2a1-o40f2N7J               |
-| 6     | td2AK164-4V1d92pG-kK42LD30               |
-| 7     | eDCi4167-s5Ep061r-6hM5Wd08               |
-| 8     | Efu8J342-R4Mm871S-W1z98GJ6               |
-| 9     | 15F76ISR-E53Ioq47-0C3S9I1Q               |
+| 1     | FE98q42v-C2L76z5s-0c8F65Zl               |
+| 2     | y867B5Mf-ai235c9o-813hR2qC               |
+| 3     | 721WKn6H-Z5C3v91j-85m7Ms4D               |
+| 4     | Ds7m024T-M8J5LF67-o18l2k0O               |
+| 5     | z623hWt7-0u18DOv2-OECK3470               |
+| 6     | 1it84Ou5-4fj71K8H-Rx23u1O7               |
+| 7     | 9JP4T0O1-hC347BN0-34jxu28f               |
+| 8     | b6p52Og0-qE76sM58-OE5682zu               |
+| 9     | 1cB9tK70-74t5QNb0-Hx9T7a65               |
+| 10    | D7atM513-aR6j718O-6FMN5d31               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
