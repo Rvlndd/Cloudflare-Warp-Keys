@@ -9,7 +9,7 @@ free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new
 
 ## Latest Update
 
-The keys were last updated on: **`2024-08-11 08:54:43`**
+The keys were last updated on: **`2024-08-11 08:56:59`**
 
 ## How to Use
 
@@ -21,16 +21,15 @@ The keys were last updated on: **`2024-08-11 08:54:43`**
 
 | INum | Key |
 |-------|-----|
-| 1     | 4Igi235y-0QPU8c74-0C635xyO               |
-| 2     | cp3J07W5-RB2Jt051-91OKJH45               |
-| 3     | m4LAc625-y7Tz680u-H74Fl9U3               |
-| 4     | 63KDpm78-uVDK2086-5rj74J1M               |
-| 5     | iZ4J721B-0485EzXI-C9Xi350s               |
-| 6     | 0Zo1LM98-49IJH12h-21K4d3Fx               |
-| 7     | Uz9Z853K-I8Y063El-95g60aQH               |
-| 8     | 74I2zTR3-hK6WP921-7j40LK9q               |
-| 9     | 8Cn0A19v-Z8B9l1C2-n8W732cj               |
-| 10    | 9yDB7x30-42iU98gt-qL60Wp32               |
+| 1     | q4lk18z6-7a94R8lP-Hs3y156L               |
+| 2     | j6J4u0f2-327rWoF4-0f1o8D3k               |
+| 3     | 58CsY3H0-u0Ok42v6-W427TN0e               |
+| 4     | 2nV46Dm1-No564x9T-L7g853lx               |
+| 5     | cb1405Rx-4Sv3T2a1-o40f2N7J               |
+| 6     | td2AK164-4V1d92pG-kK42LD30               |
+| 7     | eDCi4167-s5Ep061r-6hM5Wd08               |
+| 8     | Efu8J342-R4Mm871S-W1z98GJ6               |
+| 9     | 15F76ISR-E53Ioq47-0C3S9I1Q               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
