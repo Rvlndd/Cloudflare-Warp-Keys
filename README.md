@@ -9,7 +9,7 @@ free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new
 
 ## Latest Update
 
-The keys were last updated on: **`2024-08-12 01:27:39`**
+The keys were last updated on: **`2024-08-12 01:27:40`**
 
 ## How to Use
 
@@ -21,16 +21,16 @@ The keys were last updated on: **`2024-08-12 01:27:39`**
 
 | INum | Key |
 |-------|-----|
-| 1     | Qa418e3S-95MGJr34-a154P7xn               |
-| 2     | iK18B63N-2z1xV9H6-f2iA981u               |
-| 3     | 796anrO8-k5ECj483-Lq5P0k42               |
-| 4     | qN4m830l-2Xvj396r-26n3kly1               |
-| 5     | w12vH39G-81cu3O2o-086Sicf3               |
-| 6     | 3r7X8nt0-43U6y9xo-Y4Wg20k5               |
-| 7     | D4h9aM73-f7g156Yq-e623C9ET               |
-| 8     | 089GuH6I-24uw86FT-e96xg3i4               |
-| 9     | 7j19IJ5Y-3rb4D26H-uW3D65N8               |
-| 10    | 0aVBs854-297tAjc1-6R1Ey34v               |
+| 1     | 2M5ws6X9-IN19MJ56-xiZ830w7               |
+| 2     | u70RJe62-JO9z470w-MP37I2Y4               |
+| 3     | Yr3A0C81-O35s7Ic2-GM17Wa82               |
+| 4     | Vb75OB96-5682glXU-4zf83wR5               |
+| 5     | Z4f8J0p5-9M7L81jl-XfV35j64               |
+| 6     | 5Jqb976h-0g86VK3i-3ul1i6t5               |
+| 7     | 0M48SA5u-1vLW725w-47JA5O2L               |
+| 8     | 78djOh62-O6il50W2-bPN50W48               |
+| 9     | 53rh1a4x-96J1a2uh-BU739KT1               |
+| 10    | 578QJXf3-816BV0YN-eq9a71X4               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
