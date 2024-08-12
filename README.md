@@ -9,7 +9,7 @@ free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new
 
 ## Latest Update
 
-The keys were last updated on: **`2024-08-12 01:07:16`**
+The keys were last updated on: **`2024-08-12 01:08:20`**
 
 ## How to Use
 
@@ -21,16 +21,16 @@ The keys were last updated on: **`2024-08-12 01:07:16`**
 
 | INum | Key |
 |-------|-----|
-| 1     | U26hon49-54VRi97e-Pz5dt873               |
-| 2     | r4x165Lw-E7Vh849U-N72tJ4L9               |
-| 3     | 9h8qV30w-ijfQ8259-7syW153B               |
-| 4     | nHt865S3-4Jwk3I16-hT8ty207               |
-| 5     | Pn3987HD-03g9L4Uo-9o8NDt70               |
-| 6     | U4e9o61y-16D3w5Rn-9b825MOX               |
-| 7     | 4s0G5OL8-r0216oSs-9ObRP573               |
-| 8     | rl93w64K-K5o3wm29-7FmMI501               |
-| 9     | I3f4D16n-98PM5b4s-9CYf067e               |
-| 10    | 6dPD93y8-P9J076VY-2N58k3px               |
+| 1     | 13XvNs94-4W5ne06S-4t5g1KF8               |
+| 2     | vj6e2l03-I24fP35d-75bV3Qs2               |
+| 3     | TYM9p185-e6av0E41-7r1FH0I8               |
+| 4     | rZ5Rs208-i6y1p7v3-2AXZG581               |
+| 5     | z8C245Ev-Zx9N0b57-GUdy7694               |
+| 6     | 2Sc19X8Y-49exCu17-1e92CuL6               |
+| 7     | rY9hJ023-1L9z4v0a-52z4ly0M               |
+| 8     | 541hHi6l-6B3c1Y5N-atX49y25               |
+| 9     | 0U3M5BK7-0Y2NJn89-7zX901dE               |
+| 10    | 8Xts0i67-1h9L6Y2g-6gI3d8q9               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
