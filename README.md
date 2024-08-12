@@ -9,7 +9,7 @@ free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new
 
 ## Latest Update
 
-The keys were last updated on: **`2024-08-12 01:53:57`**
+The keys were last updated on: **`2024-08-12 02:01:49`**
 
 ## How to Use
 
@@ -21,16 +21,16 @@ The keys were last updated on: **`2024-08-12 01:53:57`**
 
 | INum | Key |
 |-------|-----|
-| 1     | Jp38f6g0-m09X7f2u-6340qPYI               |
-| 2     | OLM1846Q-N503e7QM-6t81Af9x               |
-| 3     | F1S6mB79-7z9I1ic2-0I376jTd               |
-| 4     | 4k8m5Jx1-mg8u935O-O128ILr7               |
-| 5     | 3s902cjG-32Afvl87-3MZ6A9u1               |
-| 6     | 42hrf03U-8Jw47ZD9-8Np519oR               |
-| 7     | La4yl632-QB9X401H-Jn6178CR               |
-| 8     | 6y83Z9rI-2sEp53S8-c7VY45T1               |
-| 9     | 71IL4h6m-8W03Y4ME-Qu1Z253E               |
-| 10    | a6A0Z4o1-Z358Tx1s-x3824Wyb               |
+| 1     | 69OY0na1-6A4Lg79N-1A3pZu28               |
+| 2     | 7P6l1hg9-tMk8N534-16jl2Ea9               |
+| 3     | Ho39B6F5-4r79HU1X-8CeS7K24               |
+| 4     | Al97KS32-GZ46c72E-4ZM68bU1               |
+| 5     | 28MEz41X-y0f83x7B-hLz9304A               |
+| 6     | TFN69j24-fTAU1596-eyt731G4               |
+| 7     | am3Dk967-681LYoh3-2M6eU09Z               |
+| 8     | 0Xq236MG-8EOs501F-S02p3x8n               |
+| 9     | 0o41n7Bi-xEO4578T-S49Qv3y0               |
+| 10    | 2Y87pTi6-0sxI96A7-8410UFkq               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
