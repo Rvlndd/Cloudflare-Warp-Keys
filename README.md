@@ -9,7 +9,7 @@ free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new
 
 ## Latest Update
 
-The keys were last updated on: **`2024-08-11 21:13:04`**
+The keys were last updated on: **`2024-08-12 01:06:11`**
 
 ## How to Use
 
@@ -21,22 +21,23 @@ The keys were last updated on: **`2024-08-11 21:13:04`**
 
 | INum | Key |
 |-------|-----|
-| 1     | 6s0Alo39-9g25Wo4h-015I7Tpw               |
-| 2     | Hn4806fT-bf37Qt61-6j0Y1R9V               |
-| 3     | 50D9M4jt-9I67Rpa0-295tpoL7               |
-| 4     | 9d162RWr-CBT58k71-l21nH0E3               |
-| 5     | 3k8Rq15F-KP1p8N07-4iN53vh0               |
-| 6     | 6Le03Z4c-69w2n5lv-So9f31u4               |
-| 7     | 9lnq538I-7H0QZg85-2l34Ws0p               |
-| 8     | 6dPD93y8-P9J076VY-2N58k3px               |
-| 9     | w598E0NF-0owh84D2-5W0Z7v6A               |
+| 1     | 57f4e6op-YR65cZ47-RA714qZ5               |
+| 2     | B59Xw1L2-5217SBYy-93p0fAI4               |
+| 3     | 8AV2D76r-98wTX6F2-8Z26P7oI               |
+| 4     | L890xlq6-u36I9o4N-3aBw0E65               |
+| 5     | Qse2g843-2L47yX0p-Mq59DC34               |
+| 6     | 0itA64j1-Z74o2Nj0-Dj4vC765               |
+| 7     | F26a0q5G-j5M72LX1-gy23x49o               |
+| 8     | Au09s26Y-w39Af8P1-6h9gp1A0               |
+| 9     | 156WZ4SN-3o59A6vJ-13tox2I6               |
+| 10    | EP713yB5-83MkV56U-3wy291KX               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
 
-## Is this Unlimited?
+## Is this Warp+?
 
-Yes, it has 2 Exabytes of bandwidth per key.
+Yes, it is warp plus you can check at https://cloudflare.com/cdn-cgi/trace
 
 ## What can I use it for?
 U can do anything what u want but plz gimme a star <3
