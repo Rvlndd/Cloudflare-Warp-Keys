@@ -9,7 +9,7 @@ free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new
 
 ## Latest Update
 
-The keys were last updated on: **`2024-08-15 23:05:24`**
+The keys were last updated on: **`2024-08-16 05:05:26`**
 
 ## How to Use
 
@@ -21,14 +21,16 @@ The keys were last updated on: **`2024-08-15 23:05:24`**
 
 | INum | Key |
 |-------|-----|
-| 1     | f0769pls-fu35C20Z-146xmBV5               |
-| 2     | s843oi1A-1ncZG356-h7Tk423a               |
-| 3     | 7M2F6oW8-XE8591oM-Q3FM7j62               |
-| 4     | FwGY1052-c7op9K65-G5Q634Wr               |
-| 5     | e25n10bC-l7829YPO-BcGJ8163               |
-| 6     | 7uO48z9G-214F7lkp-402ke8gY               |
-| 7     | 89Ww5R1i-60u1iyH4-FYB29W14               |
-| 8     | 6s0bj95c-58HEkL92-6ocv3S15               |
+| 1     | c8K7O9d1-9104yOaD-67KZse04               |
+| 2     | Ry2HD351-9hMdB805-N29Vf30h               |
+| 3     | 25N1txi8-5Qu1r74w-4cuTD803               |
+| 4     | JpR9150o-0iYnV314-9Mc463zr               |
+| 5     | 6nU5W4g8-qy46e19g-72Ji8X5N               |
+| 6     | K10Z3x6R-59Fn12vD-Cd09x85A               |
+| 7     | cT071rM5-lm79c24t-2AI7X9Q4               |
+| 8     | r7v2x1l4-G82kb91I-H041SK8e               |
+| 9     | e7LA396D-Z2J7kH34-7f629JvU               |
+| 10    | 98mO0oI6-2m1O6L7d-314d9XBl               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
