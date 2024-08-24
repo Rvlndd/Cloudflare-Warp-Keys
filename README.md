@@ -2,7 +2,7 @@
 # Free Cloudflare WARP+ Keys
 
 ![Banner](asset/IMG_20240629_142710_129.jpg)
-![Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Rvlndd/Cloudflare-Warp-Keys&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Total+View&edge_flat=false)
+![Count]https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Rvlndd/Cloudflare-Warp-Keys&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Total+View&edge_flat=false)
 
 ## Introduction
 
@@ -10,7 +10,7 @@ free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new
 
 ## Latest Update
 
-The keys were last updated on: **`2024-08-24 05:05:42`**
+The keys were last updated on: **`2024-08-24 13:05:26`**
 
 ## How to Use
 
@@ -22,14 +22,16 @@ The keys were last updated on: **`2024-08-24 05:05:42`**
 
 | INum | Key |
 |-------|-----|
-| 1     | 2xN03Tc4-3Z8Jn54M-T86p31FX               |
-| 2     | 91bV5jJ2-kC5Z61N2-u3wGk690               |
-| 3     | 3A91W7iE-CP4079vZ-50m9jg2v               |
-| 4     | 2LE35h4U-XK2h8T93-1IbB50p2               |
-| 5     | f2B6H40K-67gt0LM9-klf63O80               |
-| 6     | 12c5QsN6-l9N4y2K5-0n29BH7l               |
-| 7     | 72Butz96-3z6q0H9R-XGt5423n               |
-| 8     | n50P3CD8-18GO6Y0J-C61KLZ57               |
+| 1     | 5x24d1aR-B4R3Y5w7-9N8X5bi6               |
+| 2     | km9o246I-G3QP2S67-4l5IC7W3               |
+| 3     | 21vHk8y5-WC0Fo813-03lMuA45               |
+| 4     | 8120LRfA-76UoS98W-X61SK5w9               |
+| 5     | 7UHv2S16-Zp17S84G-0zRw582M               |
+| 6     | 1Sah580d-Y36m1q4i-Nc36Fp87               |
+| 7     | c3W08M1h-062iX8zD-m175U8bS               |
+| 8     | E1045wWC-51QHy90q-qRzy5476               |
+| 9     | 8J2K1q3D-DUfH9768-lo328TB7               |
+| 10    | q423k9oS-2h7P50IV-05Y3Lhj7               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
