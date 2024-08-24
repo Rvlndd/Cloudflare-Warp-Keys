@@ -2,7 +2,7 @@
 # Free Cloudflare WARP+ Keys
 
 ![Banner](asset/IMG_20240629_142710_129.jpg)
-![Count]https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Rvlndd/Cloudflare-Warp-Keys&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Total+View&edge_flat=false)
+![Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Rvlndd/Cloudflare-Warp-Keys&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Total+View&edge_flat=false)
 
 ## Introduction
 
