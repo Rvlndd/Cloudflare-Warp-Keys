@@ -10,7 +10,7 @@ free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new
 
 ## Latest Update
 
-The keys were last updated on: **`2024-08-25 05:05:21`**
+The keys were last updated on: **`2024-08-25 13:05:23`**
 
 ## How to Use
 
@@ -22,15 +22,16 @@ The keys were last updated on: **`2024-08-25 05:05:21`**
 
 | INum | Key |
 |-------|-----|
-| 1     | 58u6g3Lk-c7n6zk10-l9r534fK               |
-| 2     | o943f6mB-61UXlD82-2hw81H0A               |
-| 3     | 4WX1P76j-K74L26on-6mn2E91B               |
-| 4     | 4b8Dca15-i067S3aY-LS72z14p               |
-| 5     | Hs6145IW-eBY532U1-6gD4xz01               |
-| 6     | 25sjoZ07-Zd2F9A41-VR98vx37               |
-| 7     | AX058kv9-8VM2Pu41-6e4Y9s1Z               |
-| 8     | 42tc01mx-sYv568C9-Cy5Rc087               |
-| 9     | 3o2PGl14-N5lm1w64-0u1e3m5G               |
+| 1     | hsY5049D-b6n8x0Z4-4Ioq76G8               |
+| 2     | 1Fm8u46s-Rs7r305n-G783UTL2               |
+| 3     | 5w4aD7y6-xl5N2o86-0Z3C6Gt2               |
+| 4     | 3b49kgu0-59uNQ83L-z381CSf2               |
+| 5     | 0q4py12n-35oEzy79-O6I89o7W               |
+| 6     | FZ10wf37-g3M2W78a-bm37Oq51               |
+| 7     | EUY3260t-504JlMU2-3X52ry6d               |
+| 8     | ke478Km1-238wND0U-1xm5W6X4               |
+| 9     | B35W42SE-79Y26EGc-2K80HVD5               |
+| 10    | 08XVkL31-91gi7RQ5-0OJ712Vg               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
