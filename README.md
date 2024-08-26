@@ -10,7 +10,7 @@ free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new
 
 ## Latest Update
 
-The keys were last updated on: **`2024-08-25 23:05:24`**
+The keys were last updated on: **`2024-08-26 05:05:22`**
 
 ## How to Use
 
@@ -22,16 +22,16 @@ The keys were last updated on: **`2024-08-25 23:05:24`**
 
 | INum | Key |
 |-------|-----|
-| 1     | 8x1N4B0j-48o15jhB-Yw0864BA               |
-| 2     | k5GJf237-b89Y3Ll6-cU0912wY               |
-| 3     | 5z8Ow26e-US5I8E76-2Ngzo369               |
-| 4     | t57J6wA2-dpM928v5-o0LM31E4               |
-| 5     | i2F1DZ94-51Nd6L2A-83fz46uA               |
-| 6     | Fk58b6D0-g90Zj6R4-O1np7c82               |
-| 7     | 6r39GW8x-Dvx729s5-wQ0938Ll               |
-| 8     | t9Lu248c-27kj4KV9-Q9FfD745               |
-| 9     | jZP1867F-L2bHS106-2UMB1z96               |
-| 10    | D04Ou2N3-09or5Jh4-5U07d1Ry               |
+| 1     | I35la10V-0FTp61G7-8Xw6tY20               |
+| 2     | 46jJ2l5B-b19N20An-35YCZ80I               |
+| 3     | F9Re32a1-za1Ux034-dG4576cr               |
+| 4     | r8jA95Y6-8d317eHO-2Y6rD85J               |
+| 5     | B9C1G84y-12rBCS67-594rHBU1               |
+| 6     | 3oQNj492-2Gx1P0V5-6Re895Kw               |
+| 7     | 967KoJU4-03j7b2Dn-E273i6vp               |
+| 8     | T0sD3j29-2G45rqP0-D6RZV015               |
+| 9     | 394gNvZ2-h57v04QZ-0Ki5m7E2               |
+| 10    | 738dg0Lk-6I90Nem4-gy25q1C3               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
