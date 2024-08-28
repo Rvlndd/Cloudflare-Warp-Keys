@@ -10,7 +10,7 @@ free Cloudflare WARP+ keys. This repository is updated every 6 hours with 10 new
 
 ## Latest Update
 
-The keys were last updated on: **`2024-08-28 05:05:24`**
+The keys were last updated on: **`2024-08-28 13:05:21`**
 
 ## How to Use
 
@@ -22,16 +22,14 @@ The keys were last updated on: **`2024-08-28 05:05:24`**
 
 | INum | Key |
 |-------|-----|
-| 1     | c6M2V07t-N592u3bS-v54um79i               |
-| 2     | Vjps4039-28c7i0Xg-tu698eA5               |
-| 3     | EO4u05C6-3f94Y0Ji-z38xb0K7               |
-| 4     | Ft20I76d-L56e2jd1-e079lyG6               |
-| 5     | K59oNH30-8a3f9v5K-VR30Mf67               |
-| 6     | t89or4D0-15ui3k0Q-3rB8CK04               |
-| 7     | g3wi49a1-7Eh6X8W3-Z93zL5R7               |
-| 8     | 1LWk394Q-4zpg6k73-5E60hWs1               |
-| 9     | Bqt712u4-oK647Qb2-z57Mu30D               |
-| 10    | J74r0l8i-VXg8906H-36KD97MN               |
+| 1     | b1AK0U97-P10j6mc8-8x5dV4q2               |
+| 2     | 0dJp743H-il73r1q0-52g3mpa8               |
+| 3     | VA586th3-4tG02xC7-73r4iKN6               |
+| 4     | p5X38nh0-6LH5R1g4-567Z2pOo               |
+| 5     | 0MY6uR85-98SF3C6K-7Y52oui8               |
+| 6     | N195mBh4-68A2Rs4c-71JG8gM9               |
+| 7     | 58iHc74T-7b1p60Nf-I0a4WM27               |
+| 8     | c963CT4y-adw0436b-O675pD2U               |
 
 
 > **Note:** The keys are updated every day. Make sure to check back for the latest keys.
